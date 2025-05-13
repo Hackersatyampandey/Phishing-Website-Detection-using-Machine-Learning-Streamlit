@@ -221,24 +221,9 @@ streamlit run app/app.py
 📬 Contact / Credits
 Developer: Satyam Pandey
 Institution: MLK PG College
-Email: [optional]
+Email: hackersatyampandey@gmail.com
 
 📜 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute with credit.
 
-⭐ Final Note
-If you find this project useful or interesting, don't forget to ⭐ star the repo and share it. Contributions and suggestions are welcome!
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ What You Should Do Next:
-- Copy and paste this into your `README.md`.
-- Push it to GitHub using:
-  ```bash
-  git add README.md
-  git commit -m "Updated advanced README"
-  git push
